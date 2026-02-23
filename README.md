@@ -28,7 +28,7 @@ Se desarrollaron e iteraron múltiples modelos de Machine Learning para abordar 
 * **Clustering:** Para segmentar incidentes con características o condiciones similares.
 
 ## Visualización de Resultados
-![Dashboard Riesgo Aviación](Images/Daños.png)
+![Dashboard Riesgo Aviación](Images/Alturas.png)
 
 ## Estructura del Repositorio
 * `/Notebook`: Jupyter Notebook de Python con el análisis EDA, limpieza y entrenamiento de modelos.
